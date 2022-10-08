@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "BozidarDjuric 9/29/2022 01:14",
+	"super" : "Object",
+	"category" : "GamesAndToys",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Dice",
+	"type" : "normal"
+}

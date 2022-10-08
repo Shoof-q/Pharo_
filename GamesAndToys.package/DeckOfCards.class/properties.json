@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "BozidarDjuric 9/29/2022 00:49",
+	"super" : "Object",
+	"category" : "GamesAndToys",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"deck"
+	],
+	"name" : "DeckOfCards",
+	"type" : "normal"
+}
